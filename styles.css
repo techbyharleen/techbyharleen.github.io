@@ -13,4 +13,12 @@ ul {
 
 li {
     display: inline;
+    padding: 0px 10px 0px 10px;
+}
+
+header {
+    text-align: center;
+    background: "https://lh3.googleusercontent.com/d/1lpYDrkxb4bUFng5c7M417JuLfEj0pSCF";
+    background-size: cover;
+    padding: 20px 0px 0px 0px;
 }
