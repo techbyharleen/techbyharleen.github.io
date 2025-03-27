@@ -6,3 +6,7 @@ h2 {
     font-family: "Noto Sans Mono", monospace;
     text-align: center;
 }
+
+ul {
+    padding: 10px;
+}
